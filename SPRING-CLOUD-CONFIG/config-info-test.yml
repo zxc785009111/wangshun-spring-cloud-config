@@ -1,4 +1,6 @@
 cn: 
   springcloud: 
     book: 
-      config: i am the git configuration file from test
+      config: i am the git configuration file from test edit1
+      
+      
